@@ -1,0 +1,7 @@
+= guice-examples image:https://travis-ci.org/daggerok/guice-examples.svg?branch=master["Build Status", link="https://travis-ci.org/daggerok/guice-examples"]
+
+//tag::content[]
+
+This repository contains guice dependency injection examples.
+
+//end::content[]

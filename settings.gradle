@@ -1,0 +1,3 @@
+rootProject.name = "guice-examples"
+include ":hello-guice"
+project(":hello-guice").projectDir = "$rootDir/hello-guice" as File
